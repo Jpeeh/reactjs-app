@@ -1,3 +1,7 @@
-.Navbar.Brand{float: right;}
+img{float: left;}
 
-.navbar{background-color: lightgray;}
+.navbar-nav{float: right;}
+
+.row{background-color: whitesmoke;}
+
+.navbar-brand{font-weight: 500;}
