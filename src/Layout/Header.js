@@ -5,8 +5,8 @@ import { Navbar, Nav, Row, Container } from 'react-bootstrap';
 class Header extends React.Component{
     render(){
         return (
-            <Row>
-                <Container>
+            <div>
+            <Container>
             <Navbar bg="dark" variant="dark">
                 <Navbar.Brand>Transcriptions</Navbar.Brand>
                 <Navbar.Collapse id="basic-navbar-nav">
@@ -21,7 +21,7 @@ class Header extends React.Component{
                 </Navbar.Collapse>
             </Navbar>
             </Container>
-            </Row>
+            </div>
         ) 
     }
 }
