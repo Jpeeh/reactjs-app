@@ -2,3 +2,11 @@
 .card-text{font-family: 'Open Sans';}
 
 .row{margin-top: 20px;}
+
+img{float: left;}
+
+.navbar-nav{float: right;}
+.navbar-brand{font-weight: 500;font-family: 'Montserrat';font-size: 18px;color: #414C5E;}
+
+#addIcon{margin-left: 50%;-moz-transition: all .2s ease-in; -o-transition: all .2s ease-in; -webkit-transition: all .2s ease-in; transition: all .2s ease-in;}
+#addIcon:hover{background: chartreuse;  height: 36px;}
