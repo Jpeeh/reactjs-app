@@ -1,12 +1,15 @@
-.card-title{font-family: 'Montserrat';}
-.card-text{font-family: 'Open Sans';}
-
 .row{margin-top: 20px;}
 
-img{float: left;}
+#navbarContainer{width: 100%;background-color: aquamarine;}
+
+img{float: left; color: #fff;;-moz-transition: all .2s ease-in; -o-transition: all .2s ease-in; -webkit-transition: all .2s ease-in; transition: all .2s ease-in;}
+img:hover{background-color: whitesmoke;border-radius: 5px;size: 15px;}
+img:active, #addIcon:active {background-color: aquamarine; box-shadow: 0 5px aquamarine; transform: translateY(1px); }
 
 .navbar-nav{float: right;}
-.navbar-brand{font-weight: 500;font-family: 'Montserrat';font-size: 18px;color: #414C5E;}
+.navbar-brand{font-weight: 500;font-family: 'Montserrat';font-size: 18px;color: #414C5E;text-decoration: underline;}
 
 #addIcon{margin-left: 50%;-moz-transition: all .2s ease-in; -o-transition: all .2s ease-in; -webkit-transition: all .2s ease-in; transition: all .2s ease-in;}
-#addIcon:hover{background: chartreuse;  height: 36px;}
+
+#voiceIdInput{font-family: 'Montserrat';font-weight: bold;font-size: 16px;color: #566074;}
+#voiceTextInput{font-family: 'Open Sans';font-weight: 200;font-size: 16px !important}
