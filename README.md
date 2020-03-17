@@ -1,7 +1,5 @@
 # ReactJS app
 
----
-
 First web application with ReactJS.
 
 Small web app that fetches data from a given url, lists the data from the endpoint.
