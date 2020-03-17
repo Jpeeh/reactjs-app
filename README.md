@@ -8,3 +8,6 @@ User can edit data, remove data, fetch data from url, and was supposed to send d
 For more info check the link: https://github.com/Unbabel/frontend-challenge
 
 ![Screenshot] (appScreenshot.PNG)
+
+<img src="/appScreenshot.png" alt="app screenshot"/>
+
