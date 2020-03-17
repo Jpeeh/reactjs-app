@@ -8,4 +8,4 @@ User can edit data, remove data, fetch data from url, and was supposed to send d
 For more info check the link: https://github.com/Unbabel/frontend-challenge
 
 Screenshot:
-![alt text] https://github.com/Jpeeh/reactjs-app/blob/master/appScreenshot.PNG?raw=true
+![alt text] https://github.com/Jpeeh/reactjs-app/blob/master/appScreenshot.PNG
