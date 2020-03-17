@@ -1,7 +1,8 @@
-# Unbabel's front-end challenge
----
-Small web app that fetch data from a given endpoint provided by the company, lists the data from the endpoint, allowing the user edit the data, adding or removing rows and then pushing the changes to another endpoint.
+# ReactJS app
 
-Note: It was supposed to use Vue.js and not React and it uses React-Bootstrap.
+First web application with ReactJS.
+
+Small web app that fetches data from a given url, lists the data from the endpoint.
+User can edit data, remove data, fetch data from url, and was supposed to send data through a POST request (not quite done).
 
 For more info check the link: https://github.com/Unbabel/frontend-challenge
